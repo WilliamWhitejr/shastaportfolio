@@ -1,0 +1,15 @@
+#navbar{ text-align: center;
+}
+
+
+
+#navbar li{
+display:inline-block;
+border: 5px white;
+}
+
+
+
+#navbar a{ color: white;
+text-decoration:none;
+}
