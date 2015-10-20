@@ -1,0 +1,28 @@
+    body{ background: black;
+     color:white;
+      } 
+       
+      .paragraphs{
+          transition:2s ease ;
+          text-align: left;
+          border: outset;
+          
+      }
+       
+       .paragraphs:hover{
+           color:red;
+           
+       }
+       
+            
+        .bold {
+            transition:2s ease;
+            margin-left:400px;
+            margin-right:400px;
+        }
+        
+        .bold:hover{
+            color:red;
+            font-size:30px;
+            border: dotted;
+        }
