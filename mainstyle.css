@@ -4,8 +4,10 @@
        
       .paragraphs{
           transition:2s ease ;
-          text-align: left;
+          text-align: center;
           border: outset;
+          margin-left:400px;
+          margin-right:400px;
           
       }
        
@@ -25,4 +27,14 @@
             color:red;
             font-size:30px;
             border: dotted;
+        
+        
+        .football {
+            width: 300px;
+            margin-left:100px;
+        }
+        
+        .shasta {
+            width: 300px;
+            margin-right: 100px;
         }

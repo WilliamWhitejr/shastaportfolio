@@ -1,0 +1,13 @@
+  body{ background: white;
+     color:black;
+      } 
+      
+      .Sports{
+           transition:2s ease ;
+          text-align: center;
+          border: outset;
+          margin-left:400px;
+          margin-right:400px;
+          
+      }
+      
