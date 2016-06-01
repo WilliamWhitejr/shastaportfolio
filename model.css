@@ -1,0 +1,11 @@
+ body{
+text-align:center;
+}
+
+.b1 {
+    border-style:outset;
+    border-width:8px;
+    width:500px;
+    text-align:center;
+}
+    
